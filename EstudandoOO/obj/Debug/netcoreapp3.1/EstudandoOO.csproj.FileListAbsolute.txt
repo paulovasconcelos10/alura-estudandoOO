@@ -1,0 +1,13 @@
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\bin\Debug\netcoreapp3.1\EstudandoOO.exe
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\bin\Debug\netcoreapp3.1\EstudandoOO.deps.json
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\bin\Debug\netcoreapp3.1\EstudandoOO.runtimeconfig.json
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\bin\Debug\netcoreapp3.1\EstudandoOO.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\bin\Debug\netcoreapp3.1\EstudandoOO.dll
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\bin\Debug\netcoreapp3.1\EstudandoOO.pdb
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.AssemblyInfo.cs
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.dll
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.pdb
+C:\Users\pauli\source\repos\EstudandoOO\EstudandoOO\obj\Debug\netcoreapp3.1\EstudandoOO.genruntimeconfig.cache
