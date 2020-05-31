@@ -6,10 +6,10 @@ namespace EstudandoOO
 {
     public class ContaCorrente
     {
-        public String titular;
+        public Cliente titular;
         public int conta;
         public int agencia;
-        public double saldo;
+        public double saldo = 100;
 
 
 
