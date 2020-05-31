@@ -31,5 +31,16 @@ namespace EstudandoOO
         
         }
 
+        public bool Transferir (double valor, ContaCorrente conta)
+        {
+            if (this.saldo < valor)
+            {
+                return false;
+            }
+            this.saldo -= valor;
+            conta.Depositar(valor);
+            return true;
+        }
+
     }
 }

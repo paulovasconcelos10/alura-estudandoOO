@@ -16,9 +16,8 @@ namespace EstudandoOO
 
             conta2.titular = "Victor";
             conta2.Depositar(100);
-
-
             Console.WriteLine(conta1.titular + " Saldo: " + conta1.saldo);
+            
             if (conta1.Sacar(150))
             {
                 Console.WriteLine("Saque realizado com sucesso");
@@ -27,7 +26,6 @@ namespace EstudandoOO
             {
                 Console.WriteLine("Sem saldo");
             }
-
             Console.WriteLine(conta1.titular + " Saldo: " + conta1.saldo);
 
             Console.WriteLine(conta2.titular + " Saldo: " + conta2.saldo);
@@ -37,10 +35,24 @@ namespace EstudandoOO
             }
             else
             {
-                Console.WriteLine("Sem saldo");
+                Console.WriteLine("Sem saldo para sacar");
             }
-
             Console.WriteLine(conta2.titular + " Saldo: " + conta2.saldo);
+
+            
+            
+            if (conta2.Transferir(50, conta1))
+            {
+                Console.WriteLine("Transferencia realizado com sucesso");
+            }
+            else
+            {
+                Console.WriteLine("Sem saldo para transferencia");
+            }
+            Console.WriteLine(conta2.titular + " Saldo: " + conta2.saldo);
+            Console.WriteLine(conta1.titular + " Saldo: " + conta1.saldo);
+
+
             Console.ReadLine();
   
         }
